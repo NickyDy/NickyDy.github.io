@@ -26,6 +26,6 @@ about:
 
 :::{#nick-heading}
 
-I am a former vegetation ecologist and data science enthusiast.
+I am a former vegetation ecologist and current data science enthusiast.
 
 :::
