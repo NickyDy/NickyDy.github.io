@@ -1,0 +1,31 @@
+---
+title: "Nikolay R. Dyakov"
+image: nick_pic.jpg
+about: 
+  id: nick-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:nickydyakov@gmail.com
+    - text: Facebook
+      icon: facebook
+      href: https://www.facebook.com/NikolayRDyakov
+    - text: GitHub
+      icon: github
+      href: https://github.com/NickyDy
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/@NickDy
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.bg/citations?user=baM9fDcAAAAJ&hl=en
+---
+
+:::{#nick-heading}
+
+I am a former vegetation ecologist and data science enthusiast.
+
+:::

@@ -1,0 +1,51 @@
+---
+title: "Projects"
+---
+
+## Research projects
+
+1.  Secondary succession following windthrow in a beech forest – 2016-2017;
+2.  Mapping of species distribution and habitat conservation status assessment – 2013;
+3.  Alien species invasion of riparian forests on the territory of Maintained Reserve “Dolna Topchia” according to environmental gradients and management regime, Southeastern Bulgaria – 2009;
+4.  Gradient analysis of vegetation on the south slope of Vitosha Mountain, Western Bulgaria – 2008-2009;
+5.  Secondary succession following windfall on the territory of study and training forestry unit “G. Avramov” – Yundola, Bulgaria – 2006;
+6.  Spatial patterns of small mammal communities in two regions of Tundzha River’s hilly plain, Bulgaria – 2005;
+7.  Biodiversity assessment of Eastern Rhodopes, Bulgaria – 2005.
+
+## Other projects
+
+1.  [Using inferential statistics to analyze questionnaire qualitative data about physical exercise!](https://rpubs.com/NickD/928782)
+2.  [Using some popular ML algorithms to predict churning!](https://rpubs.com/NickD/928815)
+3.  [Sentiment analysis of Amazon employee reviews in Glassdoor!](https://rpubs.com/NickD/932396)
+4.  [Using some widely-used ML models to predict bike rentals!](https://rpubs.com/NickD/934112)
+5.  [EDA of UK crimes from 2010 to 2014!](https://rpubs.com/NickD/937609)
+6.  [Sentiment analysis of Tailor Swift’s song lyrics!](https://rpubs.com/NickD/940386)
+7.  [Sentiment analysis of Lady GaGa’s song lyrics!](https://rpubs.com/NickD/946904)
+8.  [Сравнителен анализ на парламентарните избори в България през 2021 година!](https://rpubs.com/NickD/947116)
+9.  [Bulgarian climate in the last 20+ years!](https://rpubs.com/NickD/964603)
+10. [Exploratory data analysis (EDA) of plant diversity in a local environment!](https://rpubs.com/NickD/967182)
+11. [Mapping food price change in EU for 2019-2022 time period!](https://rpubs.com/NickD/967638)
+12. [Change of energy prices in EU from 2019 to 2022!](https://rpubs.com/NickD/967685)
+13. [Качествено картиране на изборите в България през 2021-2022 година!](https://rpubs.com/NickD/967706)
+14. [Overall price change (inflation) in EU from 2019 to 2022!](https://rpubs.com/NickD/968139)
+15. [Credit risk analysis using ML models!](https://rpubs.com/NickD/968173)
+16. [Change of fuel prices in EU from 2019 to 2022!](https://rpubs.com/NickD/969069)
+17. [Stroke prediction with FFTrees algorithm!](https://rpubs.com/NickD/971654)
+18. [Modelling bank default with FFTrees!](https://rpubs.com/NickD/972801)
+19. [Exploratory data analysis, inferential statistics, modeling, and visualizations!](https://rpubs.com/NickD/976932)
+20. [Price change (inflation) in EU for 2021-2022 time period!](https://rpubs.com/NickD/989685)
+21. [Рискови общини и секции за предстоящите (02.04.2023) избори в България!](https://rpubs.com/NickD/998537)
+22. [Data management and visualization!](https://rpubs.com/NickD/1026895)
+23. [Bulgarian energy historical data!](https://rpubs.com/NickD/1052261)
+24. [Non-interactive tables!](https://rpubs.com/NickD/1072113)
+25. [Interactive tables!](https://rpubs.com/NickD/1072116)
+26. [Map of Bulgarian Natura 2000 - habitats!](https://rpubs.com/NickD/1074017)
+27. [Map of Bulgarian Natura 2000 - birds!](https://rpubs.com/NickD/1074019)
+28. [Bulgarian protected areas!](https://rpubs.com/NickD/1074280)
+
+## Apps
+
+1.  [Bulgarian elections!](https://nickydy.shinyapps.io/elections/)
+2.  [Inflation in EU!](https://nickydy.shinyapps.io/prices/)
+3.  [Промяна на адресната регистрация в България!](https://nickydy.shinyapps.io/address/)
+4.  [Климатът в България!](https://nickydy.shinyapps.io/climate/)
