@@ -43,7 +43,7 @@ title: "Projects"
 27. [Map of Bulgarian Natura 2000 - birds!](https://rpubs.com/NickD/1074019)
 28. [Bulgarian protected areas!](https://rpubs.com/NickD/1074280)
 
-## Apps
+## Shiny apps
 
 1.  [Bulgarian elections!](https://nickydy.shinyapps.io/elections/)
 2.  [Inflation in EU!](https://nickydy.shinyapps.io/prices/)
