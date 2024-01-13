@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-1.  Dyakov, N. 2019. [Testing for assembly rules along disturbance gradients in a riparian broadleaved forest.](#0) Applied Ecology and Environmental Research 17 (1): 1-13
+1.  Dyakov, N. 2019. [Testing for assembly rules along disturbance gradients in a riparian broadleaved forest.](https://www.researchgate.net/publication/329876768_Testing_for_assembly_rules_along_disturbance_gradients_in_a_riparian_broadleaved_forest) Applied Ecology and Environmental Research 17 (1): 1-13
 2.  Dyakov, N. 2016. [Spatial distribution of some alien plants across a restricted mountainous area.](https://www.researchgate.net/publication/312291466_Spatial_distribution_of_some_alien_plants_across_a_restricted_mountainous_area) Contemporary Problems of Ecology 9: 663-673
 3.  Dyakov, N. 2016. [Spatial distribution of dominant plant species according to local environmental gradients.](https://www.researchgate.net/publication/292538743_Spatial_distribution_of_dominant_plants_species_according_to_local_environmental_gradients) Applied Ecology and Environmental Research 14: 327-347
 4.  Dyakov, N. 2016. [Modeling plant species diversity pattern in a local environmental space.](https://www.researchgate.net/publication/308777373_Modelling_plant_species_diversity_pattern_in_a_local_environmental_space) Applied Ecology and Environmental Research 14: 441-459
