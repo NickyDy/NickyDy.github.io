@@ -1,6 +1,7 @@
 ---
 title: "Nikolay R. Dyakov"
 image: nick_pic.jpg
+resources: cv_academic.pdf
 about: 
   id: nick-heading
   template: jolla
@@ -22,6 +23,9 @@ about:
     - text: Scholar
       icon: google
       href: https://scholar.google.bg/citations?user=baM9fDcAAAAJ&hl=en
+    - text: CV
+      icon: file-text
+      href: cv_academic.pdf
 ---
 
 :::{#nick-heading}
