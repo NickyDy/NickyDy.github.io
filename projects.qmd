@@ -45,7 +45,7 @@ title: "Projects"
 
 ## Shiny apps
 
-1.  [Bulgarian elections!](https://nickydy.shinyapps.io/elections/)
+1.  [Избори в България!](https://nickydy.shinyapps.io/elections/)
 2.  [Inflation in EU!](https://nickydy.shinyapps.io/prices/)
-3.  [Промяна на адресната регистрация в България!](https://nickydy.shinyapps.io/address/)
-4.  [Климатът в България!](https://nickydy.shinyapps.io/climate/)
+3.  [Демография на България!](https://nickydy.shinyapps.io/demography/)
+4.  [Климатът на България!](https://nickydy.shinyapps.io/climate/)
