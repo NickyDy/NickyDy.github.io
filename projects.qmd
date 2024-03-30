@@ -49,3 +49,5 @@ title: "Projects"
 2.  [Inflation in EU!](https://nickydy.shinyapps.io/inflation/)
 3.  [Демография на България!](https://nickydy.shinyapps.io/demography/)
 4.  [Климатът на България!](https://nickydy.shinyapps.io/climate/)
+5.  [Цени на селскостопанска продукция в ЕС!](https://ndapps.shinyapps.io/agri/)
+6.  [Сравнение на цените в България!](https://ndapps.shinyapps.io/bgprices/)
