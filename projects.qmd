@@ -51,3 +51,4 @@ title: "Projects"
 4.  [Климатът на България!](https://nickydy.shinyapps.io/climate/)
 5.  [Цени на селскостопанска продукция в ЕС!](https://ndapps.shinyapps.io/agri/)
 6.  [Сравнение на цените в България!](https://ndapps.shinyapps.io/bgprices/)
+7.  [Евростат за България!](https://nickydy.shinyapps.io/eurostat/)
