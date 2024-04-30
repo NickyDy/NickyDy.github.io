@@ -52,3 +52,4 @@ title: "Projects"
 5.  [Цени на селскостопанска продукция в ЕС!](https://ndapps.shinyapps.io/agri/)
 6.  [Сравнение на цените в България!](https://ndapps.shinyapps.io/bgprices/)
 7.  [Евростат за България!](https://nickydy.shinyapps.io/eurostat/)
+8.  [Чистота на водите в България!](https://ndapps.shinyapps.io/und_water/)
