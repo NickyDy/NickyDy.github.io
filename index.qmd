@@ -23,7 +23,7 @@ about:
     - text: Scholar
       icon: google
       href: https://scholar.google.bg/citations?user=baM9fDcAAAAJ&hl=en
-    - text: CV
+    - text: Academic CV
       icon: file-text
       href: cv_academic.pdf
 ---
