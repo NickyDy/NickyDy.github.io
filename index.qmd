@@ -1,7 +1,7 @@
 ---
 title: "Nikolay R. Dyakov"
 image: nick_pic.jpg
-resources: cv_academic.pdf
+#resources: cv_academic.pdf
 about: 
   id: nick-heading
   template: jolla
@@ -11,21 +11,21 @@ about:
     - text: Email
       icon: envelope
       href: mailto:nickydyakov@gmail.com
-    - text: Facebook
-      icon: facebook
-      href: https://www.facebook.com/NikolayRDyakov
+    # - text: Facebook
+    #   icon: facebook
+    #   href: https://www.facebook.com/NikolayRDyakov
     - text: GitHub
       icon: github
       href: https://github.com/NickyDy
-    - text: YouTube
-      icon: youtube
-      href: https://youtube.com/@NickDy
+    # - text: YouTube
+    #   icon: youtube
+    #   href: https://youtube.com/@NickDy
     - text: Scholar
       icon: google
       href: https://scholar.google.bg/citations?user=baM9fDcAAAAJ&hl=en
-    - text: Academic CV
-      icon: file-text
-      href: cv_academic.pdf
+    # - text: Academic CV
+    #   icon: file-text
+    #   href: cv_academic.pdf
 ---
 
 :::{#nick-heading}
