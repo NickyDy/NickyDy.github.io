@@ -42,6 +42,7 @@ title: "Projects"
 26. [Map of Bulgarian Natura 2000 - habitats!](https://rpubs.com/NickD/1074017)
 27. [Map of Bulgarian Natura 2000 - birds!](https://rpubs.com/NickD/1074019)
 28. [Bulgarian protected areas!](https://rpubs.com/NickD/1074280)
+29. [How socio-demographics influence media consumption?](https://rpubs.com/NickD/1275431)
 
 ## Shiny apps
 
